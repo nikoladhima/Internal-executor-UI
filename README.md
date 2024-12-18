@@ -4,11 +4,9 @@
 - Scripthub(s) 🌐
 - Extras 👀
 
-## Patch Notes (Script V.1.0.0)
+## Patch Notes (Script V.1.0.1)
 - fixed some bugs
-- fixed executor errors
-- fixed clear/copy buttons
-- fixed keybind
+- copy/clear log is temporarily removed
 
 ## 🔌Shortened Script
 ```lua
