@@ -6,7 +6,8 @@
 
 ## Patch Notes (Script V.1.0.1)
 - fixed some bugs
-- copy/clear log is temporarily removed
+- copy log permanently removed due to it being impossible
+- clear log added back and works now
 
 ## 🔌Shortened Script
 ```lua
