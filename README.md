@@ -2,6 +2,7 @@
 
 - Built-in internal executor 📜⌨️
 - Scripthub(s) 🌐
+- Built-in Anti-AFK 🎮⌨️
 - Extras 👀
 
 ## 🔌Shortened Script
