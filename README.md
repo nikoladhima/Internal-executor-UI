@@ -1,3 +1,4 @@
+# [[ CURRENTLY IN MAINTENENCE, THE SCRIPT IS BEING REMADE. PLEASE JOIN THE DISCORD SERVER FOR UPDATES ]]
 ## ⚡ Features
 
 - Built-in internal executor 📜⌨️
